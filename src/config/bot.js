@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "Watching SERVER", // required by Discord API, not shown in the client
         state: "Watching over SERVER.",     // this is what people actually see
-        type: 1,               // Custom
+        type: 3,               // Custom
       },
     ],
   },
